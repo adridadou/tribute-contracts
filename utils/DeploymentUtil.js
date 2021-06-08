@@ -765,4 +765,5 @@ module.exports = {
   entryBank,
   entryDao,
   getNetworkDetails,
+  addAdapters,
 };
