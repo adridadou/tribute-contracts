@@ -55,6 +55,7 @@ const contracts = {
   TestToken2: "./test/TestToken2",
   TestFairShareCalc: "./test/TestFairShareCalc",
   PixelNFT: "./test/PixelNFT",
+  FakeChainlinkPriceFeed: "./test/FakeChainlinkPriceFeed",
 
   // DAO Contracts
   DaoFactory: "./core/DaoFactory",
@@ -95,7 +96,7 @@ const contracts = {
   CouponOnboardingContract: "./adapters/CouponOnboardingContract",
   TributeContract: "./adapters/TributeContract",
   TributeNFTContract: "./adapters/TributeNFTContract",
-  FinancingChainlink: "./adapters/FinancingChainLink", 
+  FinancingChainlinkContract: "./adapters/FinancingChainlinkContract",
 };
 
 module.exports = {
